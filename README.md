@@ -6,6 +6,15 @@ A desktop application for managing multiple Twitch chat bots with an intuitive i
 
 https://github.com/user-attachments/assets/184a84bf-4794-4cf1-9fb7-5a9d4f490d42
 
+## LEGAL
+This software is intended solely for educational and security research purposes, particularly for website security testing. The author assumes no responsibility for misuse, illegal activities, or unauthorized access carried out with this tool. By using it, you accept full responsibility for any consequences resulting from improper or unethical use.
+
+The program functions as an automated system and does not collect, store, or share personal data. It is designed strictly for cybersecurity testing, data analysis, and ethical vulnerability research.
+
+Any unauthorized or malicious use, including hacking, credential theft, or illegal data access, is strictly prohibited.
+
+For legal inquiries, please contact me by email.
+
 ## Features
 
 - **Multi-bot Management** - Control multiple Twitch bots simultaneously from a single interface
